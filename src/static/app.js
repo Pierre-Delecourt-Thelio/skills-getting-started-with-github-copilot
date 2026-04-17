@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
           });
         });
 
-        // Add option to select dropdown
+        // Add option to select dropdow_xXX
         const option = document.createElement("option");
         option.value = name;
         option.textContent = name;
